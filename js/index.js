@@ -10,7 +10,7 @@ var output = document.getElementById('output');
 var score = document.getElementById('scoreRounds');
 var result = document.getElementById('result');
 var allButtons = document.getElementsByClassName('btn'); 
-//var allButtons = [rockButton, paperButton, scissorsButton];
+// allButtons have  [rockButton, paperButton, scissorsButton]
 var numberOfButtons = allButtons.length;
 var rounds;
 var tableBody = document.querySelector('#game-log tbody');
