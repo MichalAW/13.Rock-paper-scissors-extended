@@ -2,6 +2,8 @@
 
 A rock-paper-scissors game based on java script,sass, html.
 Project extened by scripted modals, score table.
+
+Convert to ES6 (in progres)
 # repo --> https://github.com/MichalAW/Rock-paper-scissors.git
 # Visit site --> https://michalaw.github.io/Rock-paper-scissors-extended/
 
